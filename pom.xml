@@ -5,7 +5,10 @@
 	<groupId>cn.yiueil</groupId>
 	<artifactId>how-to-become-rich</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<modules>
+		<module>core</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>how-to-become-rich</name>
 
