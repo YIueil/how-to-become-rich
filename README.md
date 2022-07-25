@@ -17,9 +17,9 @@ Add the following to `pom.xml`:
 
     <dependencies>
         <dependency>
-            <groupId>com.itranswarp.rich</groupId>
+            <groupId>cn.yiueil.how-to-become-rich</groupId>
             <artifactId>how-to-become-rich</artifactId>
-            <version>1.0.0</version>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 
