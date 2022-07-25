@@ -10,14 +10,14 @@ Add the following to `pom.xml`:
     <repositories>
         <repository>
             <id>github-rich-repo</id>
-            <name>YIueil's Repository on Github</name>
-            <url>/maven-repo/</url>
+            <name>YIueil's Maven Repository on Github</name>
+            <url>https://yiueil.github.io/how-to-become-rich/maven-repo/</url>
         </repository>
     </repositories>
 
     <dependencies>
         <dependency>
-            <groupId>cn.yiueil.how-to-become-rich</groupId>
+            <groupId>cn.yiueil</groupId>
             <artifactId>how-to-become-rich</artifactId>
             <version>0.0.1</version>
         </dependency>
